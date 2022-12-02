@@ -1,6 +1,8 @@
 import day1.CalorieCounting
+import day1.RockPaperScissors
 
 fun main(args: Array<String>) {
 
-    print(CalorieCounting.getHighestCalorieElf())
+
+    println(RockPaperScissors.getRockPaperScissorsScore())
 }
