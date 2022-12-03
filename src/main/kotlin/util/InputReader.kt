@@ -30,4 +30,10 @@ object InputReader {
         }
         return day2Input
     }
+
+    fun getDay3Input(): List<String>? {
+        val text = javaClass.getResource("/day3.txt")?.readText()
+        val input = text?.split("\n")?.map { it.trim() }
+        return input
+    }
 }
