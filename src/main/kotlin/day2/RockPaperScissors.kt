@@ -1,4 +1,4 @@
-package day1
+package day2
 
 import LoseDrawWin
 import RPS

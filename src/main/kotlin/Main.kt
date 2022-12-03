@@ -1,5 +1,5 @@
 import day1.CalorieCounting
-import day1.RockPaperScissors
+import day2.RockPaperScissors
 
 fun main(args: Array<String>) {
 
